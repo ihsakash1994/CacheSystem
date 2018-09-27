@@ -1,0 +1,7 @@
+C:\Users\akag\Documents\Visual Studio 2017\Projects\FlipkartCache\bin\Debug\FlipkartCache.exe.config
+C:\Users\akag\Documents\Visual Studio 2017\Projects\FlipkartCache\bin\Debug\FlipkartCache.exe
+C:\Users\akag\Documents\Visual Studio 2017\Projects\FlipkartCache\bin\Debug\FlipkartCache.pdb
+C:\Users\akag\Documents\Visual Studio 2017\Projects\FlipkartCache\obj\Debug\FlipkartCache.csprojResolveAssemblyReference.cache
+C:\Users\akag\Documents\Visual Studio 2017\Projects\FlipkartCache\obj\Debug\FlipkartCache.csproj.CoreCompileInputs.cache
+C:\Users\akag\Documents\Visual Studio 2017\Projects\FlipkartCache\obj\Debug\FlipkartCache.exe
+C:\Users\akag\Documents\Visual Studio 2017\Projects\FlipkartCache\obj\Debug\FlipkartCache.pdb
